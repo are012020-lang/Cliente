@@ -1,0 +1,18 @@
+ALL PLAY ITAQUERA — SITE ESTÁTICO
+
+ESTRUTURA
+- index.html: página inicial
+- assets/: fotos, capas e vídeos usados pela página
+
+PUBLICAR NO GITHUB + RENDER
+1. Descompacte este pacote.
+2. Envie o conteúdo de dentro da pasta (index.html e a pasta assets) para a raiz do repositório GitHub — não envie apenas o ZIP.
+3. No serviço Static Site do Render, use a raiz do repositório como Publish Directory (.) e deixe o Build Command vazio.
+4. Com o repositório conectado e o Auto-Deploy habilitado no Render, cada push/commit no GitHub dispara uma nova publicação.
+5. Abra o endereço do Render e confira também uma mídia diretamente, por exemplo: https://SEU-SITE.onrender.com/assets/i4.webp
+
+IMPORTANTE ANTES DE PUBLICAR
+A página veio do demonstrativo anterior. Confirme com a All Play os dados comerciais exibidos (telefone/WhatsApp, endereço, horário, valores, regras para crianças e festas) e substitua o que estiver desatualizado. A marca oficial em alta resolução também deve ser solicitada; o cabeçalho atual usa um wordmark temporário. O site é estático e não inclui sistema de reservas.
+
+CAMINHOS DAS MÍDIAS
+Os caminhos no HTML começam por assets/ e correspondem aos nomes dos arquivos nesta pasta. Mantenha os nomes e a capitalização exatamente como estão.
