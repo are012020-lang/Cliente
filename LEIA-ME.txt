@@ -1,0 +1,6 @@
+ALL PLAY ITAQUERA - SITE
+
+1. Envie TODO o conteudo desta pasta (index.html + pasta assets) para a hospedagem (public_html, Netlify, Vercel, etc.).
+2. Abra o endereco do site: a pagina inicial e o index.html.
+3. WhatsApp, endereco e horario: procure por 5511962950161 e 'Avenida Lider' no index.html.
+4. Pendencias: logo oficial em alta, confirmar valores/pacotes de festa, og:image com URL do dominio, CNPJ/textos legais.
